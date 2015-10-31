@@ -4,3 +4,7 @@
 [submodule "vendors/glfw"]
 	path = vendors/glfw
 	url = https://github.com/glfw/glfw.git
+[submodule "vendors/glm"]
+	path = vendors/glm
+	url = https://github.com/g-truc/glm.git
+	branch = master/0.9.7.1
